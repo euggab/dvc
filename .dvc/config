@@ -1,4 +1,5 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://kc-savchenko/dvstore
+    url = gdrive://1KvbYD-nYrj_JxrbAn_7g4taoXAkLnOiO/
+   
