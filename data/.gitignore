@@ -1,3 +1,4 @@
 data/*.txt
 .idea
 /mydata.txt
+/mydata2.txt
